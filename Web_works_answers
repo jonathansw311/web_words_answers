@@ -1,0 +1,33 @@
+What is http?
+
+It is the hyper text transfer protocol and is the standard how data is sent the web
+
+What is URL?
+
+It is the Uniform Resource Locator and is the address we use to find web sites
+
+What is DNS
+
+It is the Domaine Name System and converts ip address numbers to url’s we can read
+
+What is a query string?
+
+Query string are variables that are part of the url that the server and browser can read
+
+List two HTTP verbs and their use cases
+
+Get – Gets data from a server
+Post – sends data to a server
+Delete – deletes a record from a server
+Patch – Edit a record
+
+What is an http request?
+
+A request from the browers to the server for information
+
+What is an http response
+
+The response the server sends back to the browser
+
+What is an http header?  
+The header provides information about the request or response.  Headers can have response codes, cookes, and content type
